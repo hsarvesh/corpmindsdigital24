@@ -6,15 +6,18 @@ defineProps({
   }
 })
 </script>
+<!-- 
 
 <template>
   <div class="greetings">
-    <h1 class="green">{{ msg }}</h1>
+    <h1 class="green">{{ msg }}</h1> <br>
     <h3>
       Time is precious. Get the future-proof skills you need and fast-track your success.
     </h3>
   </div>
 </template>
+
+-->
 
 <style scoped>
 h1 {
